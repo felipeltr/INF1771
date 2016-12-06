@@ -5,7 +5,7 @@
 mapfilepath = "../map.txt"
 rulefilepath = 'logic.pl'
 
-stepTime = 0
+stepTime = 0.02
 
 # Game rules
 
